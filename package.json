@@ -1,0 +1,19 @@
+{
+  "name": "agentic",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woop/agentic.git"
+  },
+  "author": "W Pienaar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woop/agentic/issues"
+  },
+  "homepage": "https://github.com/woop/agentic#readme"
+}
